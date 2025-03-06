@@ -42,6 +42,18 @@
     <ClCompile Include="Framework\VectorHelper.cpp">
       <Filter>Framework</Filter>
     </ClCompile>
+    <ClCompile Include="BeachBall.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BallSack.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ballHailStorm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="README.txt">
@@ -72,6 +84,18 @@
     </ClInclude>
     <ClInclude Include="Framework\VectorHelper.h">
       <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="BeachBall.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BallSack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ballHailStorm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

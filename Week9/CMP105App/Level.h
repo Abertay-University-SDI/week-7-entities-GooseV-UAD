@@ -5,6 +5,8 @@
 #include "Framework/Input.h"
 #include <string>
 #include <iostream>
+#include "BallSack.h"
+#include "ballHailStorm.h"
 
 
 class Level : public BaseLevel{
@@ -18,5 +20,6 @@ public:
 
 private:
 	// Default variables for level class.
-	
+	BallSack ballManager;
+	ballHailStorm ballSnow;
 };
